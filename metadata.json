@@ -1,0 +1,8 @@
+{
+  "name": "الغلابه V12 - OFFICIAL RELEASE",
+  "description": "الإصدار الرسمي الثاني عشر. تصميم تطبيق أصلي، علم فلسطين، صور واقعية، وفصل الصفحات.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
